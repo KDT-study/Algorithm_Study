@@ -10,3 +10,4 @@ for i in range(n):
     time += ppl[i]
     total_time += time
 print(total_time)
+
