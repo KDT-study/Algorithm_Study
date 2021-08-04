@@ -7,7 +7,7 @@ sum=0
 for i in range(N):
   sum += a[i]*(N-i)
 
-sum
+print(sum)
 
 # p=[]
 # for i in range(N):
