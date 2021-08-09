@@ -35,7 +35,7 @@
 
 | 스터디 날짜 (문제 내준 날) |              문제 번호              |                             Link                             |                           Youtube                            |
 | :------------------------: | :---------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|      2021.08.02 (월)       |     11399<br />1541<br />14241      | [11399, 1541](https://www.acmicpc.net/step/33)<br />[14241](https://www.acmicpc.net/problem/14241) | [그리디 & 구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |
+|      2021.08.02 (월)       |     11399<br />1541<br />14241      | [11399](https://www.acmicpc.net/problem/11399)<br />[1541](https://www.acmicpc.net/problem/1541)<br />[14241](https://www.acmicpc.net/problem/14241) | [그리디 & 구현](https://www.youtube.com/watch?v=2zjoKjt97vQ&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=3) |
 |      2021.08.05 (목)       | 2839<br />8958<br />2217<br />21756 | [2839](https://www.acmicpc.net/problem/2839)<br />[8958](https://www.acmicpc.net/problem/8958)<br />[2217](https://www.acmicpc.net/problem/2217)<br />[21756](https://www.acmicpc.net/problem/21756) |   [DFS & BFS](https://www.youtube.com/watch?v=7C9RgOcvkvo)   |
 
 
